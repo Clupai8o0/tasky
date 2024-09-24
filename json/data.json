@@ -1,0 +1,117 @@
+{
+    "tasks": [
+        {
+            "description": "Description 1",
+            "due_date": "2021-11-14",
+            "priority": 3,
+            "start_date": "2021-12-01",
+            "status": 1,
+            "tags": [
+                "work",
+                "urgent"
+            ],
+            "title": "Task 1",
+            "username": "admin"
+        },
+        {
+            "description": "Description 2",
+            "due_date": "2021-12-31",
+            "priority": 2,
+            "start_date": "2021-12-01",
+            "status": 2,
+            "tags": [
+                "personal"
+            ],
+            "title": "Task 2",
+            "username": "admin"
+        },
+        {
+            "description": "Description 3",
+            "due_date": "2021-09-30",
+            "priority": 1,
+            "start_date": "2021-12-01",
+            "status": 3,
+            "tags": [
+                "low-priority"
+            ],
+            "title": "Task 3",
+            "username": "admin"
+        },
+        {
+            "description": "Prepare for meeting with stakeholders",
+            "due_date": "2021-11-20",
+            "priority": 4,
+            "start_date": "2021-11-10",
+            "status": 1,
+            "tags": [
+                "meeting",
+                "high-priority",
+                "work"
+            ],
+            "title": "Task 4",
+            "username": "johndoe"
+        },
+        {
+            "description": "Complete budget review",
+            "due_date": "2021-12-15",
+            "priority": 3,
+            "start_date": "2021-12-01",
+            "status": 2,
+            "tags": [
+                "finance",
+                "work"
+            ],
+            "title": "Task 5",
+            "username": "johndoe"
+        },
+        {
+            "description": "Research project ideas for Q1",
+            "due_date": "2022-01-15",
+            "priority": 2,
+            "start_date": "2021-12-15",
+            "status": 1,
+            "tags": [
+                "research",
+                "future-planning"
+            ],
+            "title": "Task 6",
+            "username": "admin"
+        },
+        {
+            "description": "Family vacation planning",
+            "due_date": "2022-02-01",
+            "priority": 1,
+            "start_date": "2021-12-20",
+            "status": 1,
+            "tags": [
+                "personal",
+                "vacation"
+            ],
+            "title": "Task 7",
+            "username": "johndoe"
+        },
+        {
+            "description": "Buying groceries from the supermarket",
+            "due_date": "2024-09-24",
+            "priority": 3,
+            "start_date": "2024-09-21",
+            "status": 1,
+            "tags": [
+                "grocery",
+                "shopping"
+            ],
+            "title": "Buying groceries",
+            "username": "admin"
+        }
+    ],
+    "users": [
+        {
+            "password": "admin",
+            "username": "admin"
+        },
+        {
+            "password": "johndoe123",
+            "username": "johndoe"
+        }
+    ]
+}
